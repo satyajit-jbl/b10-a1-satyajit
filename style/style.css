@@ -117,14 +117,56 @@ body{
 }
 .learn-more{
     color: black;
-        margin-top: 30px;
+        /*margin-top: 30px;
     padding-top: 50px;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 20px;*/
     
 }
 a{
     line-height: 50px;
     font-size: large;
     font-weight: 700;
+}
+/*.target-backgroundcolor1{
+    background-color: rgb(243, 21, 13);
+    border-radius: 5px;
+}*/
+
+/* support section style stats here*/
+.support-image{
+    justify-content: center;
+}
+.support-container{
+    width: 1940px;
+    min-height: 400px;
+    background-image: url(/assets/handshake.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+
+}
+.support-content{
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+
+}
+/*.margintopper{
+    margin-top: 50px;
+}*/
+
+.support-subcontent1{
+    font-weight: 800;
+}
+.btn-primary2{
+    background-color: white;
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+    padding: 18px 35px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 100px;
 }
